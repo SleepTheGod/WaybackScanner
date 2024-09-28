@@ -1,5 +1,5 @@
 # Wayback Scanner By Taylor Christian Newsome
-![Example Image](https://cdn.discordapp.com/attachments/1241153348552364136/1289680599573069865/image.png)
+![Example Image](https://i.imgur.com/winWK9I.png))
 
 
 
